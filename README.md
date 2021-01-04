@@ -12,29 +12,12 @@
 - [Larval exposure](#larval-exposure)
 - [Routes of exposure](#routes-of-exposure)
 - [Economic value](#economic-value)
-- [RNA-seq] (#rna-seq)
-- [Other] (#other)
+
 
 
 ## Introduction
 Literature on the impacts of various groups of pesticides on insect pollinators.
-Literature on the RNA-seq and other bioinformatics methods. 
-
-- [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
-- [Highly cited](#highly-cited)
-- [Declines of insect pollinators](#declines-of-insect-pollinators)
-- [Exposure of pollinators to neonicotinoid insecticides](#exposure-of-pollinators-to-neonicotinoid-insecticides)
-- [Pesticide levels in pollen and nectar](#pesticide-levels-in-pollen-and-nectar)
-- [Dosage effects](#dosage-effects)
-- [Gene expression](#gene-expression)
-- [nAChRs](#nachrs)
-- [Pesticides](#pesticides)
-- [Larval exposure](#larval-exposure)
-- [Routes of exposure](#routes-of-exposure)
-- [Economic value](#economic-value)
-
-## Introduction
-Compilation of literature about the effects of neonicotinoids (and other insecticides) on insect pollinators (mostly bees).
+Literature on the RNA-seq and other bioinformatics methods.
 
 ## Reviews on pollinators and neonicotinoid insecticides
 * Bass, C., Field, L.M., 2018. Neonicotinoids. Current Biology 28, R772–R773. https://doi.org/10.1016/j.cub.2018.05.061
@@ -464,6 +447,3 @@ Compilation of literature about the effects of neonicotinoids (and other insecti
 * Vanbergen, A.J., Heard, M.S., Breeze, T.D., Potts, S.G., Hanley, N., 2014. Status and value of pollinators and pollination services (No. PH0514), Department for Environment, Food and Rural Affairs (Defra).
 * Winfree, R., Gross, B.J., Kremen, C., 2011. Valuing pollination services to agriculture. Ecological Economics 71, 80–88. https://doi.org/10.1016/j.ecolecon.2011.08.001
 
-## RNA-seq
-
-## Other
