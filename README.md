@@ -4,6 +4,7 @@
 - [Highly cited](#highly-cited)
 - [Decline of insect pollinators](#decline-of-insect-pollinators)
 - [Exposure of pollinators to neonicotinoid insecticides](#exposure-of-pollinators-to-neonicotinoid-insecticides)
+- [Exposure of pollinators to organophosphate pesticides] (#exposure-of-pollinators-to-organophosphate-pesticides)
 - [Pesticide levels in pollen and nectar](#pesticide-levels-in-pollen-and-nectar)
 - [Dosage effects](#dosage-effects)
 - [Gene expression](#gene-expression)
@@ -254,6 +255,9 @@ Literature on the RNA-seq and other methods.
 * Wood, S.C., Kozii, I.V., Koziy, R.V., Epp, T., Simko, E., 2018. Comparative chronic toxicity of three neonicotinoids on New Zealand packaged honey bees. PLOS ONE 13, e0190517. https://doi.org/10.1371/journal.pone.0190517
 * **Woodcock, B.A., Bullock, J.M., Shore, R.F., Heard, M.S., Pereira, M.G., et al., 2017. Country-specific effects of neonicotinoid pesticides on honey bees and wild bees. Science 356, 1393–1395. https://doi.org/10.1126/science.AAA1190**
 * Wu-Smart, J., Spivak, M., 2016. Sub-lethal effects of dietary neonicotinoid insecticide exposure on honey bee queen fecundity and colony development. Scientific Reports 6, 32108. https://doi.org/10.1038/srep32108
+
+## Exposure of pollinators to organophosphate pesticides
+* Paul K. C., Chuang Y., Cockburnd M., Bronsteine J. M., Horvath S., Ritz B., 2018. Organophosphate pesticide exposure and differential genome-wide DNA methylation. Science of The Total EnvironmentVolume 645:1135-1143. https://doi.org/10.1016/j.scitotenv.2018.07.143
 
 ## Pesticide levels in pollen and nectar
 * Botias, C., David, A., Horwood, J., Abdul-Sada, A., Nicholls, E., Hill, E., Goulson, D., 2015. Neonicotinoid residues in wildflowers, a potential route of chronic exposure for bees. Environmental Science & Technology 49, 12731–12740. https://doi.org/10.1021/acs.est.5b03459
