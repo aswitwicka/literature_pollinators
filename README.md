@@ -17,7 +17,7 @@
 
 ## Introduction
 Literature on the impacts of various groups of pesticides on insect pollinators.
-Literature on the RNA-seq and other bioinformatics methods.
+Literature on the RNA-seq and other methods.
 
 ## Reviews on pollinators and neonicotinoid insecticides
 * Bass, C., Field, L.M., 2018. Neonicotinoids. Current Biology 28, R772–R773. https://doi.org/10.1016/j.cub.2018.05.061
