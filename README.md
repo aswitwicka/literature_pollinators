@@ -12,6 +12,7 @@
 - [Larval exposure](#larval-exposure)
 - [Routes of exposure](#routes-of-exposure)
 - [Economic value](#economic-value)
+- [Resistance](#resistance)
 
 
 
@@ -446,4 +447,7 @@ Literature on the RNA-seq and other methods.
 * Tscharntke, T., Clough, Y., Wanger, T.C., Jackson, L., Motzke, I., Perfecto, I., Vandermeer, J., Whitbread, A., 2012. Global food security, biodiversity conservation and the future of agricultural intensification. Biological Conservation 151, 53–59. https://doi.org/10.1016/j.biocon.2012.01.068
 * Vanbergen, A.J., Heard, M.S., Breeze, T.D., Potts, S.G., Hanley, N., 2014. Status and value of pollinators and pollination services (No. PH0514), Department for Environment, Food and Rural Affairs (Defra).
 * Winfree, R., Gross, B.J., Kremen, C., 2011. Valuing pollination services to agriculture. Ecological Economics 71, 80–88. https://doi.org/10.1016/j.ecolecon.2011.08.001
+
+## Resistance
+Brevik K., Lindström L., McKay S., Chen Y., 2018. Transgenerational effects of insecticides — implications for rapid pest evolution in agroecosystems. Current Opinion in Insect Science 26, 34-40. https://doi.org/10.1016/j.cois.2017.12.007
 
