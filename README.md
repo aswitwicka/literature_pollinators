@@ -449,5 +449,6 @@ Literature on the RNA-seq and other methods.
 * Winfree, R., Gross, B.J., Kremen, C., 2011. Valuing pollination services to agriculture. Ecological Economics 71, 80–88. https://doi.org/10.1016/j.ecolecon.2011.08.001
 
 ## Resistance
-Brevik K., Lindström L., McKay S., Chen Y., 2018. Transgenerational effects of insecticides — implications for rapid pest evolution in agroecosystems. Current Opinion in Insect Science 26, 34-40. https://doi.org/10.1016/j.cois.2017.12.007
+* Brevik K., Lindström L., McKay S., Chen Y., 2018. Transgenerational effects of insecticides — implications for rapid pest evolution in agroecosystems. Current Opinion in Insect Science 26, 34-40. https://doi.org/10.1016/j.cois.2017.12.007
+* Brevik K., Bueno E. M., McKay S., Schoville S. D., Chen Y., 2020. Insecticide exposure affects intergenerational patterns of DNA methylation in the Colorado potato beetle, Leptinotarsa decemlineata. Evolutionary Applications. https://doi.org/10.1111/eva.13153
 
