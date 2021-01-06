@@ -4,7 +4,6 @@
 - [Highly cited](#highly-cited)
 - [Decline of insect pollinators](#decline-of-insect-pollinators)
 - [Exposure of pollinators to neonicotinoid insecticides](#exposure-of-pollinators-to-neonicotinoid-insecticides)
-- [Exposure of pollinators to organophosphate pesticides] (#exposure-of-pollinators-to-organophosphate-pesticides)
 - [Pesticide levels in pollen and nectar](#pesticide-levels-in-pollen-and-nectar)
 - [Dosage effects](#dosage-effects)
 - [Gene expression](#gene-expression)
@@ -172,7 +171,7 @@ Literature on the RNA-seq and other methods.
 * **Bryden, J., Gill, R.J., Mitton, R.A.A., Raine, N.E., Jansen, V.A.A., 2013. Chronic sublethal stress causes bee colony failure. Ecology Letters 16, 1463–1469. https://doi.org/10.1111/ele.12188**
 * Carreck, N.L., Ratnieks, F.L.W., 2014. The dose makes the poison: Have “field realistic” rates of exposure of bees to neonicotinoid insecticides been overestimated in laboratory studies? Journal of Apicultural Research 53, 607–614. https://doi.org/10.3896/ibra.1.53.5.08
 * Christen, V., Kunz, P.Y., Fent, K., 2018. Endocrine disruption and chronic effects of plant protection products in bees: can we better protect our pollinators? Environmental Pollution 243, 1588–1601. https://doi.org/10.1016/j.envpol.2018.09.117
-* Chaimanee, V., Evans, J.D., Chen, Y., Jackson, C., Pettis, J.S., 2016. Sperm viability and gene expression in honey bee queens (_Apis mellifera_) following exposure to the neonicotinoid insecticide imidacloprid and the organophosphate acaricide coumaphos. Journal of Insect Physiology 89, 1–8. https://doi.org/10.1016/j.jinsphys.2016.03.004
+* Chaimanee, V., Evans, J.D., Chen, Y., Jackson, C., Pettis, J.S., 2016. Sperm viability and gene expression in honey bee queens (_Apis mellifera_) following exposure to the neonicotinoid insecticide imidacloprid and the organophosphate acaricide coumaphos. Journal of Insect Physiology 89, 1–8. https://doi.org/10.1016/j.jinsphys.2016.03.004 
 * Christen, V., Bachofer, S., Fent, K., 2017. Binary mixtures of neonicotinoids show different transcriptional changes than single neonicotinoids in honeybees (_Apis mellifera_). Environmental Pollution 220, 1264–1270. https://doi.org/10.1016/j.envpol.2016.10.105
 * Colwell, M.J., Williams, G.R., Evans, R.C., Shutler, D., 2017. Honey bee-collected pollen in agro-ecosystems reveals diet diversity, diet quality, and pesticide exposure. Ecology and Evolution 7, 7243–7253. https://doi.org/10.1002/ece3.3178
 * Cook, S.C., 2019. Compound and dose-dependent effects of two neonicotinoid pesticides on honey bee (_Apis mellifera_) metabolic physiology. Insects 10, 18. https://doi.org/10.3390/insects10010018
@@ -255,9 +254,6 @@ Literature on the RNA-seq and other methods.
 * Wood, S.C., Kozii, I.V., Koziy, R.V., Epp, T., Simko, E., 2018. Comparative chronic toxicity of three neonicotinoids on New Zealand packaged honey bees. PLOS ONE 13, e0190517. https://doi.org/10.1371/journal.pone.0190517
 * **Woodcock, B.A., Bullock, J.M., Shore, R.F., Heard, M.S., Pereira, M.G., et al., 2017. Country-specific effects of neonicotinoid pesticides on honey bees and wild bees. Science 356, 1393–1395. https://doi.org/10.1126/science.AAA1190**
 * Wu-Smart, J., Spivak, M., 2016. Sub-lethal effects of dietary neonicotinoid insecticide exposure on honey bee queen fecundity and colony development. Scientific Reports 6, 32108. https://doi.org/10.1038/srep32108
-
-## Exposure of pollinators to organophosphate pesticides
-* Paul K. C., Chuang Y., Cockburnd M., Bronsteine J. M., Horvath S., Ritz B., 2018. Organophosphate pesticide exposure and differential genome-wide DNA methylation. Science of The Total EnvironmentVolume 645:1135-1143. https://doi.org/10.1016/j.scitotenv.2018.07.143
 
 ## Pesticide levels in pollen and nectar
 * Botias, C., David, A., Horwood, J., Abdul-Sada, A., Nicholls, E., Hill, E., Goulson, D., 2015. Neonicotinoid residues in wildflowers, a potential route of chronic exposure for bees. Environmental Science & Technology 49, 12731–12740. https://doi.org/10.1021/acs.est.5b03459
