@@ -426,6 +426,9 @@ Literature on the RNA-seq and other methods.
 * Wu, J.Y., Anelli, C.M., Sheppard, W.S., 2011. Sub-lethal effects of pesticide residues in brood comb on worker honey bee (_Apis mellifera_) development and longevity. PLOS ONE 6, e14720. https://doi.org/10.1371/journal.pone.0014720
 * Wu, M.-C., Chang, Y.-W., Lu, K.-H., Yang, E.-C., 2017. Gene expression changes in honey bees induced by sublethal imidacloprid exposure during the larval stage. Insect Biochemistry and Molecular Biology 88, 12–20. https://doi.org/10.1016/j.ibmb.2017.06.016
 * Zhu, W., Schmehl, D.R., Mullin, C.A., Frazier, J.L., 2014. Four common pesticides, their mixtures and a formulation solvent in the hive environment have high oral toxicity to honey bee larvae. PLOS ONE 9, e77547. https://doi.org/10.1371/journal.pone.0077547
+* Smith Dylan B., Arce Andres N., Ramos Rodrigues Ana, Bischoff Philipp H., Burris Daisy, Ahmed Farah and Gill Richard J. 2020Insecticide exposure during brood or early-adult development reduces brain growth and impairs adult learning in bumblebeesProc. R. Soc. B.28720192442
+http://doi.org/10.1098/rspb.2019.2442
+
 
 ## Routes of exposure
 * Bonmatin, J.-M., Giorio, C., Girolami, V., Goulson, D., Kreutzweiser, D.P., Krupke, C., Liess, M., Long, E., Marzaro, M., Mitchell, E.A.D., Noome, D.A., Simon-Delso, N., Tapparo, A., 2015. Environmental fate and exposure; neonicotinoids and fipronil. Environmental Science and Pollution Research 22, 35–67. https://doi.org/10.1007/s11356-014-3332-7
