@@ -458,4 +458,5 @@ http://doi.org/10.1098/rspb.2019.2442
 * Navin Elango, Brendan G. Hunt, Michael A. D. Goodisman, Soojin V. Yi, 2009. DNA methylation is widespread and associated with differential gene expression in castes of the honeybee, Apis mellifera. Proceedings of the National Academy of Sciences, 106 (27) 11206-11211; DOI: 10.1073/pnas.0900301106
 * Robert A. Drewell, Eliot C. Bush, Emily J. Remnant, Garrett T. Wong, Suzannah M. Beeler, Jessica L. Stringham, Julianne Lim, Benjamin P. Oldroyd. 2014. **The dynamic DNA methylation cycle from egg to sperm in the honey bee Apis mellifera** Development 141:2702-2711; doi: 10.1242/dev.110163
 * Amarasinghe Harindra E., Clayton Crisenthiya I. and Mallon Eamonn B. 2014. **Methylation and worker reproduction in the bumble-bee (Bombus terrestris)** Proc. R. Soc. B.28120132502 http://doi.org/10.1098/rspb.2013.2502 **METHODS** **BUMBEBEE**
+* "Epigenetics in an ecotoxicological context" https://doi.org/10.1016/j.mrgentox.2013.08.008
 
