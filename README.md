@@ -3,7 +3,7 @@
 - [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
 - [Highly cited](#highly-cited)
 - [Decline of insect pollinators](#decline-of-insect-pollinators)
-- [Exposure of pollinators to neonicotinoid insecticides](#exposure-of-pollinators-to-neonicotinoid-insecticides)
+- [Exposure of insect pollinators to neonicotinoids](#exposure-of-insect-pollinators-to-neonicotinoids)
 - [Pesticide levels in pollen and nectar](#pesticide-levels-in-pollen-and-nectar)
 - [Dosage effects](#dosage-effects)
 - [Gene expression](#gene-expression)
