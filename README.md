@@ -255,6 +255,7 @@ Literature on the RNA-seq and other methods.
 * Wood, S.C., Kozii, I.V., Koziy, R.V., Epp, T., Simko, E., 2018. Comparative chronic toxicity of three neonicotinoids on New Zealand packaged honey bees. PLOS ONE 13, e0190517. https://doi.org/10.1371/journal.pone.0190517
 * **Woodcock, B.A., Bullock, J.M., Shore, R.F., Heard, M.S., Pereira, M.G., et al., 2017. Country-specific effects of neonicotinoid pesticides on honey bees and wild bees. Science 356, 1393–1395. https://doi.org/10.1126/science.AAA1190**
 * Wu-Smart, J., Spivak, M., 2016. Sub-lethal effects of dietary neonicotinoid insecticide exposure on honey bee queen fecundity and colony development. Scientific Reports 6, 32108. https://doi.org/10.1038/srep32108
+* Verena Strobl, Selina Bruckner, Sarah Radford, Sarah Wolf, Matthias Albrecht, Laura Villamar‐Bouza, Jakkrawut Maitip, Eleonora Kolari, Panuwan Chantawannakul, Gaétan Glauser, Geoffrey R. Williams, Peter Neumann, Lars Straub. 2021. No impact of neonicotinoids on male solitary bees Osmia cornuta under semi‐field conditions.  https://doi.org/10.1111/phen.12349
 
 ## Pesticide levels in pollen and nectar
 * Botias, C., David, A., Horwood, J., Abdul-Sada, A., Nicholls, E., Hill, E., Goulson, D., 2015. Neonicotinoid residues in wildflowers, a potential route of chronic exposure for bees. Environmental Science & Technology 49, 12731–12740. https://doi.org/10.1021/acs.est.5b03459
