@@ -1,5 +1,6 @@
 ## Table of contents
 - [Introduction](#introduction)
+- [Population declines] (#population-declines)
 - [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
 - [Highly cited](#highly-cited)
 - [Decline of insect pollinators](#decline-of-insect-pollinators)
@@ -17,8 +18,12 @@
 
 
 ## Introduction
-Literature on the impacts of various groups of pesticides on insect pollinators.  
-Literature on the RNA-seq and other methods.
+Literature on the impacts of various groups of pesticides on insect pollinators. 
+General trends in population declines
+
+## Population declines
+* Bucking the trend of pollinator decline: the population genetics of a range expanding bumblebee: https://link.springer.com/article/10.1007/s10682-021-10111-2
+* **Cameron and Sad, 2020. Global Trends in Bumble Bee Health**: https://doi.org/10.1146/annurev-ento-011118-111847
 
 ## Reviews on pollinators and neonicotinoid insecticides
 * Bass, C., Field, L.M., 2018. Neonicotinoids. Current Biology 28, R772–R773. https://doi.org/10.1016/j.cub.2018.05.061
