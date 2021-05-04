@@ -158,6 +158,7 @@ General trends in population declines
 * Vanbergen, A.J., Espíndola, A., Aizen, M.A., 2018. Risks to pollinators and pollination from invasive alien species. Nature Ecology & Evolution 2, 16–25. https://doi.org/10.1038/s41559-017-0412-3
 * **Wagner, D.L., 2020. Insect declines in the Anthropocene. Annual Review of Entomology 65, 457–480. https://doi.org/10.1146/annurev-ento-011019-025151**
 * **Woodcock, B.A., Bullock, J.M., Shore, R.F., Heard, M.S., Pereira, M.G., Redhead, J., Ridding, L., Dean, H., Sleep, D., Henrys, P., Peyton, J., Hulmes, S., Hulmes, L., Sárospataki, M., Saure, C., Edwards, M., Genersch, E., Knäbe, S., Pywell, R.F., 2017. Country-specific effects of neonicotinoid pesticides on honey bees and wild bees. Science 356, 1393–1395. https://doi.org/10.1126/science.aaa1190**
+* Siviter and Muth. 2020: Do novel insecticides pose a threat to beneficial insects? https://doi.org/10.1098/rspb.2020.1265
 
 ## Exposure of insect pollinators to neonicotinoids
 * Anderson, N.L., Harmon-Threatt, A.N., 2019. Chronic contact with realistic soil concentrations of imidacloprid affects the mass, immature development speed, and adult longevity of solitary bees. Scientific Reports 9, 3724. https://doi.org/10.1038/s41598-019-40031-9
