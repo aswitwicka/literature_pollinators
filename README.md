@@ -1,6 +1,6 @@
 ## Table of contents
 - [Introduction](#introduction)
-- [Population declines] (#population-declines)
+- [Population declines](#population-declines)
 - [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
 - [Highly cited](#highly-cited)
 - [Decline of insect pollinators](#decline-of-insect-pollinators)
