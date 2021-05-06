@@ -1,6 +1,5 @@
 ## Table of contents
 - [Introduction](#introduction)
-- [Population declines](#population-declines)
 - [Reviews on pollinators and neonicotinoid insecticides](#reviews-on-pollinators-and-neonicotinoid-insecticides)
 - [Highly cited](#highly-cited)
 - [Decline of insect pollinators](#decline-of-insect-pollinators)
@@ -20,10 +19,6 @@
 ## Introduction
 Literature on the impacts of various groups of pesticides on insect pollinators. 
 General trends in population declines
-
-## Population declines
-* Bucking the trend of pollinator decline: the population genetics of a range expanding bumblebee: https://link.springer.com/article/10.1007/s10682-021-10111-2
-* **Cameron and Sad, 2020. Global Trends in Bumble Bee Health**: https://doi.org/10.1146/annurev-ento-011118-111847
 
 ## Reviews on pollinators and neonicotinoid insecticides
 * Bass, C., Field, L.M., 2018. Neonicotinoids. Current Biology 28, R772–R773. https://doi.org/10.1016/j.cub.2018.05.061
@@ -139,6 +134,8 @@ General trends in population declines
 * Woodcock, B.A., Garratt, M.P.D., Powney, G.D., Shaw, R.F., Osborne, J.L., et al., 2019. Meta-analysis reveals that pollinator functional diversity and abundance enhance crop pollination and yield. Nature Communications 10, 1481. https://doi.org/10.1038/s41467-019-09393-6
 
 ## Declines of insect pollinators
+* Bucking the trend of pollinator decline: the population genetics of a range expanding bumblebee: https://link.springer.com/article/10.1007/s10682-021-10111-2
+* **Cameron and Sad, 2020. Global Trends in Bumble Bee Health**: https://doi.org/10.1146/annurev-ento-011118-111847
 * Aizen, M.A., Garibaldi, L.A., Cunningham, S.A., Klein, A.M., 2009. How much does agriculture depend on pollinators? Lessons from long-term trends in crop production. Annals of botany 103, 1579–88. https://doi.org/10.1093/aob/mcp076
 * Aizen, M.A., Harder, L.D., 2009. The global stock of domesticated honey bees is growing slower than agricultural demand for pollination. Current Biology 19, 915–918. https://doi.org/10.1016/j.cub.2009.03.071
 * Arbetman, M.P., Gleiser, G., Morales, C.L., Williams, P., Aizen, M.A., 2017. Global decline of bumblebees is phylogenetically structured and inversely related to species range size and pathogen incidence. Proceedings of the Royal Society B: Biological Sciences 284.
