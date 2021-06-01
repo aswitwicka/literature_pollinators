@@ -13,6 +13,7 @@
 - [Routes of exposure](#routes-of-exposure)
 - [Economic value](#economic-value)
 - [Methylation](#methylation)
+- [Testing practices](#testing)
 
 
 
@@ -465,4 +466,7 @@ Author links open overlay panel: https://doi.org/10.1016/j.ecoenv.2021.112143
 * Robert A. Drewell, Eliot C. Bush, Emily J. Remnant, Garrett T. Wong, Suzannah M. Beeler, Jessica L. Stringham, Julianne Lim, Benjamin P. Oldroyd. 2014. **The dynamic DNA methylation cycle from egg to sperm in the honey bee Apis mellifera** Development 141:2702-2711; doi: 10.1242/dev.110163
 * Amarasinghe Harindra E., Clayton Crisenthiya I. and Mallon Eamonn B. 2014. **Methylation and worker reproduction in the bumble-bee (Bombus terrestris)** Proc. R. Soc. B.28120132502 http://doi.org/10.1098/rspb.2013.2502 **METHODS** **BUMBEBEE**
 * "Epigenetics in an ecotoxicological context" https://doi.org/10.1016/j.mrgentox.2013.08.008
+
+## Testing
+* Vijver et al. 2017. Postregistration monitoring of pesticides is urgently required to protect ecosystems. https://doi.org/10.1002/etc.3721
 
