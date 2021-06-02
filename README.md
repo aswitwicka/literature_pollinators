@@ -469,4 +469,5 @@ Author links open overlay panel: https://doi.org/10.1016/j.ecoenv.2021.112143
 
 ## Testing
 * Vijver et al. 2017. Postregistration monitoring of pesticides is urgently required to protect ecosystems. https://doi.org/10.1002/etc.3721
+* Francisco Sánchez-Bayo and Henk A. Tennekes. 2014. Environmental Risk Assessment of Agrochemicals — A Critical Appraisal of Current Approaches. https://doi.org/10.5772/60739
 
