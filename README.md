@@ -471,5 +471,7 @@ Author links open overlay panel: https://doi.org/10.1016/j.ecoenv.2021.112143
 * Vijver et al. 2017. Postregistration monitoring of pesticides is urgently required to protect ecosystems. https://doi.org/10.1002/etc.3721
 * Francisco Sánchez-Bayo and Henk A. Tennekes. 2014. Environmental Risk Assessment of Agrochemicals — A Critical Appraisal of Current Approaches. https://doi.org/10.5772/60739
 * Schäfer R. B. et al. 2019. Future pesticide risk assessment: narrowing the gap between intention and reality. https://doi.org/10.1186/s12302-019-0203-3
+* Francisco Sánchez-Bayo and Henk A. Tennekes. 2017. Assessment of ecological risks of agrochemicals requires a new framework. https://doi.org/10.4066/2529-8046.100025
 * Robinson C. et al. 2020. Achieving a High Level of Protection from Pesticides in Europe: Problems with the Current Risk Assessment Procedure and Solutions https://doi.org/10.1017/err.2020.18
+* Klimisch H. J. et al. 1997. A systematic approach for evaluating the quality of experimental toxicological and ecotoxicological data. https://doi.org/10.1006/rtph.1996.1076
 
