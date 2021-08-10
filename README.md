@@ -69,6 +69,7 @@ General trends in population declines
 * Matsuda, K., Buckingham, S.D., Kleier, D., Rauh, J.J., Grauso, M., Sattelle, D.B., 2001. Neonicotinoids: insecticides acting on insect nicotinic acetylcholine receptors. Trends in Pharmacological Sciences 22, 573–580. https://doi.org/10.1016/S0165-6147(00)01820-4
 * **Matsuda, K., Kanaoka, S., Akamatsu, M., Sattelle, D.B., 2009. Diverse actions and target-site selectivity of neonicotinoids: structural insights. Mol Pharmacol 76, 1–10. https://doi.org/10.1124/mol.109.055186**
 * **Matsuda, K., Ihara, M., Sattelle, D.B., 2020. Neonicotinoid insecticides: molecular targets, resistance, and toxicity. Annual Review of Pharmacology and Toxicology 60, 241–255. https://doi.org/10.1146/annurev-pharmtox-010818-021747**
+* A. M. Milner, I. L. Boyd. 2017. Toward pesticidovigilance. https://doi.org/10.1126/science.aan2683
 * Moreira-Hernández, J.I., Muchhala, N., 2019. Importance of pollinator-mediated interspecific pollen transfer for angiosperm evolution. Annual Review of Ecology, Evolution, and Systematics 50, null. https://doi.org/10.1146/annurev-ecolsys-110218-024804
 * **Ollerton, J., 2017. Pollinator diversity: Distribution, ecological function, and conservation. Annual Review of Ecology, Evolution, and Systematics 48, 353–376. https://doi.org/10.1146/annurev-ecolsys-110316-022919**
 * **Potts, S.G., Biesmeijer, J.C., Kremen, C., Neumann, P., Schweiger, O., Kunin, W.E., 2010. Global pollinator declines: trends, impacts and drivers. Trends in Ecology & Evolution 25, 345–353. https://doi.org/10.1016/j.tree.2010.01.007**
@@ -444,6 +445,7 @@ Author links open overlay panel: https://doi.org/10.1016/j.ecoenv.2021.112143
 * Kopit, A.M., Pitts-Singer, T.L., 2018. Routes of pesticide exposure in solitary, cavity-nesting bees. Environmental Entomology 47, 499–510. https://doi.org/10.1093/ee/nvy034
 * Krupke, C.H., Hunt, G.J., Eitzer, B.D., Andino, G., Given, K., 2012. Multiple routes of pesticide exposure for honey bees living near agricultural fields. PLOS ONE 7, e29268. https://doi.org/10.1371/journal.pone.0029268
 * Radolinski, J., Wu, J., Xia, K., Hession, W.C., Stewart, R.D., 2019. Plants mediate precipitation-driven transport of a neonicotinoid pesticide. Chemosphere 222, 445–452. https://doi.org/10.1016/j.chemosphere.2019.01.150
+* Siviter, H., Bailes, E.J., Martin, C.D. et al. Agrochemicals interact synergistically to increase bee mortality. Nature (2021). https://doi.org/10.1038/s41586-021-03787-7
 
 ## Economic value
 * Bauer, D.M., Sue Wing, I., 2016. The macroeconomic cost of catastrophic pollinator declines. Ecological Economics 126, 1–13. https://doi.org/10.1016/j.ecolecon.2016.01.011
@@ -475,4 +477,5 @@ Author links open overlay panel: https://doi.org/10.1016/j.ecoenv.2021.112143
 * Francisco Sánchez-Bayo and Henk A. Tennekes. 2017. Assessment of ecological risks of agrochemicals requires a new framework. https://doi.org/10.4066/2529-8046.100025
 * Robinson C. et al. 2020. Achieving a High Level of Protection from Pesticides in Europe: Problems with the Current Risk Assessment Procedure and Solutions https://doi.org/10.1017/err.2020.18
 * Klimisch H. J. et al. 1997. A systematic approach for evaluating the quality of experimental toxicological and ecotoxicological data. https://doi.org/10.1006/rtph.1996.1076
+* * A. M. Milner, I. L. Boyd. 2017. Toward pesticidovigilance. https://doi.org/10.1126/science.aan2683
 
